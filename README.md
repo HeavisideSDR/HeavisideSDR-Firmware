@@ -1,2 +1,2 @@
-# Heavyside-Firmware
+# Heaviside-Firmware
 Firmware for HeavisideSDR Boards
